@@ -111,7 +111,7 @@ class _HomescreenState extends State<Homescreen> {
             onTap: () => Navigator.of(context)
                 .push(MaterialPageRoute(builder: (_) => Search())),
             child: Text(
-              "Search file",
+              "Search for other user",
               style: TextStyle(
                 color: Colors.blue,
                 fontSize: 16,
