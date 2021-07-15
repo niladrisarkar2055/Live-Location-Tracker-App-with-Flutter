@@ -109,7 +109,7 @@ class _HomescreenState extends State<Homescreen> {
           
           GestureDetector(
             onTap: () => Navigator.of(context)
-                .push(MaterialPageRoute(builder: (_) => MainPage())),
+                .push(MaterialPageRoute(builder: (_) => Search())),
             child: Text(
               "Search file",
               style: TextStyle(
