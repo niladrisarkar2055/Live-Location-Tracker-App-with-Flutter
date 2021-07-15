@@ -1,7 +1,11 @@
 # tracker
 
-A new Flutter project.
+Live Location Tracker 
 
+Here with the help of firebase as database and flutter frame work 
+i have implemented a location tracking app . After you login in it will 
+direct you to the home page where you can chose to see you location 
+in text format or via google maps . 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
